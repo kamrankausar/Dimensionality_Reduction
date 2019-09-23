@@ -1,0 +1,10 @@
+age,edu,salary,city,claim_or_not,mode,payment
+12,btech,12000,a,yes,year,m
+13,mca,13000,b,no,month,n
+14,ba,14000,c ,yes,quarter,b
+15,bba,14001,d,no,year,v
+16,msc,14002,e,yes,month,c
+17,be,14003,f,no,quarter,x
+18,metric,14004,g,yes,year,z
+19,ias,14005,h,no,month,l
+20,bca,14006,i,yes,quarter,k
